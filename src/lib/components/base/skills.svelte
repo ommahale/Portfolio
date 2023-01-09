@@ -11,6 +11,7 @@
     }
     span{
         font-size: 2.3rem;
+        text-align: center;
     }
     .logo{
         font-size: 2.4rem;
