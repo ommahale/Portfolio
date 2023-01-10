@@ -28,7 +28,7 @@
             Flutter developer and a Machine Learning and Artificial Intelligence enthusiast. Experienced in SvelteJS.
             <div class="contact"><a href="/contact">Contact me</a></div>
         </span>
-        <div class="img"><img src={book} alt="book"><span class="vbutton">Bachlore of Engineering (Persuing)</span></div>
+        <div class="img"><img src={book} alt="book"><span class="vbutton">Bachelor of Engineering (Pursuing)</span></div>
     </span>
 
 </div>
