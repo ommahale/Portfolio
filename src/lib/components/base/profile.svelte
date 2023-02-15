@@ -50,7 +50,7 @@
         color: white;
         padding: 7px;
         margin-top: 15px;
-        border-radius: 10px;
+        border-radius: 6px;
     }
     .img img{
         border: none;
